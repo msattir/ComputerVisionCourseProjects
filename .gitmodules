@@ -1,0 +1,3 @@
+[submodule "ECE_ComputerVisionProjects"]
+	path = ECE_ComputerVisionProjects
+	url = https://github.com/msattir/ECE_ComputerVisionProjects.git
